@@ -12,3 +12,4 @@ DIAIQJFNOV2025
 <img width="1024" height="1024" alt="3" src="https://github.com/user-attachments/assets/484b14a9-013c-4bd9-b6b9-4b3b35da6a6e" />
 <img width="1024" height="1024" alt="2" src="https://github.com/user-attachments/assets/2ce71223-e9e1-4a22-808b-64b183bd9ab3" />
 <img width="1024" height="1024" alt="1" src="https://github.com/user-attachments/assets/12eb92f8-083b-4477-9e59-f719e83c3f2e" />
+<img width="853" height="436" alt="OQJF 2" src="https://github.com/user-attachments/assets/b7cd17f5-a348-4571-8922-dbc6c59a1ca9" />
