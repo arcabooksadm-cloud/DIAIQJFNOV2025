@@ -17,3 +17,4 @@ DIAIQJFNOV2025
 <img width="1080" height="1350" alt="PULSEIRA" src="https://github.com/user-attachments/assets/6e54ab03-a81f-4992-85a4-acb5f6fc3557" />
 <img width="1080" height="1350" alt="OQJFCOLAR" src="https://github.com/user-attachments/assets/5a53cdf5-ea6e-4325-8f68-699ec39b173f" />
 <img width="962" height="166" alt="BOTAO" src="https://github.com/user-attachments/assets/ffacce70-0e94-4d89-97d8-dba7b11eb66c" />
+<img width="757" height="461" alt="pulseira" src="https://github.com/user-attachments/assets/6afa0a30-f192-4e13-97ba-12bc213fa326" />
